@@ -9,4 +9,8 @@
         android:id="@+id/del_item"
         android:title="del_item">
     </item>
+    <item
+        android:id="@+id/second_activity"
+        android:title="second_activity"
+    ></item>
 </menu>
