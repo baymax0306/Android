@@ -28,7 +28,7 @@ public class SecondActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
         String data = intent.getStringExtra("data");
-        if (!data.isEmpty())
+        if (null != data)
             Toast.makeText(this, data, Toast.LENGTH_SHORT).show();
     }
 }
