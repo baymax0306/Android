@@ -1,6 +1,9 @@
 package com.example.activitylifecycledemo;
 
 import android.content.Intent;
+import android.os.Build;
+import android.os.PersistableBundle;
+import android.support.annotation.RequiresApi;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -32,6 +35,11 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        if (null != savedInstanceState) {
+            String tempdata = savedInstanceState.getString("data_key");
+            Log.d(TAG, tempdata);
+        }
     }
 
     @Override
@@ -69,6 +77,15 @@ public class MainActivity extends AppCompatActivity {
         super.onRestart();
         Log.d(TAG, "onRestart");
     }
+
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
+    @Override
+    public void onSaveInstanceState(Bundle outState, PersistableBundle outPersistentState) {
+        super.onSaveInstanceState(outState, outPersistentState);
+        String tempdata = "Something you just typed";
+        outPersistentState.putString("data_key", tempdata);
+    }
+
 }
 
 
