@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -32,6 +33,7 @@ public class FirstActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Log.d("FirstActivity onCreate", this.toString());
         setContentView(R.layout.first_layout);
         Button button1 = (Button)findViewById(R.id.button1);
         button1.setOnClickListener(new View.OnClickListener(){
@@ -82,6 +84,15 @@ public class FirstActivity extends AppCompatActivity {
                startActivityForResult(intent, 1);
            }
         });
+
+        Button button6 = (Button)findViewById(R.id.button6);
+        button6.setOnClickListener(new View.OnClickListener(){
+          @Override
+            public void onClick(View v){
+              Intent intent = new Intent(FirstActivity.this, FirstActivity.class);
+              startActivity(intent);
+          }
+        });
     }
 
     @Override
@@ -107,6 +118,12 @@ public class FirstActivity extends AppCompatActivity {
             startActivity(intent);
         }
         return true;
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Log.d("FirstActivity onDestroy", this.toString());
     }
 }
 
