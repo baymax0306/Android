@@ -53,4 +53,5 @@ public final class OpenCamera {
 		return "Camera #" + index + " : " + facing + ',' + orientation;
 	}
 
+
 }

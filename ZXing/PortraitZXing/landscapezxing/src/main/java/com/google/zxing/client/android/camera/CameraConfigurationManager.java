@@ -32,6 +32,8 @@ import com.google.zxing.client.android.PreferencesActivity;
 import com.google.zxing.client.android.camera.open.CameraFacing;
 import com.google.zxing.client.android.camera.open.OpenCamera;
 
+import static android.hardware.Camera.*;
+
 /**
  * A class which deals with reading, parsing, and setting the camera parameters
  * which are used to configure the camera hardware.
@@ -206,8 +208,8 @@ final class CameraConfigurationManager {
 			bestPreviewSize.y = afterSize.height;
 		}
 
-		//Camera.setDisplayOrientation(90);//add 这句代码作用是旋转镜头90度，使相机预览方向正确显示
-		//Camera.setParameters(parameters);
+//		camera.setDisplayOrientation(90);//add 这句代码作用是旋转镜头90度，使相机预览方向正确显示
+//		camera.setParameters(parameters);
 	}
 
 	Point getBestPreviewSize() {
