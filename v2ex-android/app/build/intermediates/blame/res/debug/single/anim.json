@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\zhongweichang\\.android\\build-cache\\54e6f53deab2e9572ca6666983e9152a1a76a840\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\zhongweichang\\.android\\build-cache\\54e6f53deab2e9572ca6666983e9152a1a76a840\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\swipeback_stack_right_out.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\swipeback_stack_right_out.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\zhongweichang\\.android\\build-cache\\54e6f53deab2e9572ca6666983e9152a1a76a840\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\swipeback_stack_to_front.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\swipeback_stack_to_front.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\zhongweichang\\.android\\build-cache\\54e6f53deab2e9572ca6666983e9152a1a76a840\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\swipeback_stack_right_in.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\swipeback_stack_right_in.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\zhongweichang\\.android\\build-cache\\54e6f53deab2e9572ca6666983e9152a1a76a840\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\zhongweichang\\.android\\build-cache\\54e6f53deab2e9572ca6666983e9152a1a76a840\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\swipeback_stack_to_back.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\anim\\swipeback_stack_to_back.xml"
+    }
+]

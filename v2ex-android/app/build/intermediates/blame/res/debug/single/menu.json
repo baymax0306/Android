@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_topic_add.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\menu\\menu_topic_add.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\topic.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\menu\\topic.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_topic_comment.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\menu\\menu_topic_comment.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\node.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\menu\\node.xml"
+    },
+    {
+        "merged": "G:\\code\\Android\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_nodes.xml",
+        "source": "G:\\code\\Android\\v2ex-android\\app\\src\\main\\res\\menu\\menu_nodes.xml"
+    }
+]

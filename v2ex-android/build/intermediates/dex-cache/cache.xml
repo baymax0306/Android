@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.android\build-cache\a6d68d8cbf578dbf85f71da842c272c0a9348f70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\classes_f22ba37ea9f8170e0bc49443381a1bc7b5cba37b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.3\a85588bec3e2c4584d593d3f15df1677321bca72\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_5a4e01e21c4bb34cca1f5a05b09166ce9b578f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_14e98c28227547883d17ae92657ddaee7f0c6f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a01801b9f9f7236ef08979eb31fd678a07c3742">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_3_0cacbdc449f16044b7559596e1fb3bff8896c954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\pagerslidingtabstrip\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e217e1d2d49e015f331d64604950e5a1f8035299">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\classes_e1c73cd0582f9770163cbb1bfae63f496a783ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3_eedbc32384054a83bac2464856d944d1ebb3cba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.0\8d988e1e13f64c0e8e9d935e347f510f712b376b\analytics-6.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d988e1e13f64c0e8e9d935e347f510f712b376b">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\analytics-6.1.0_cc7918d8e55bbe9a43ea680fa5674fbc992b2320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_b488d3dcd9c0c1b109b4e48e1e7902e18164b6a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\apache-httpcomponents-httpclient.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpclient_d790592765030787f5b797c798b1020e6377a230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.gradle\caches\modules-2\files-2.1\org.ccil.cowan.tagsoup\tagsoup\1.2.1\5584627487e984c03456266d3f8802eb85a9ce97\tagsoup-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5584627487e984c03456266d3f8802eb85a9ce97">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\tagsoup-1.2.1_3848b5f466f00e159e6778bf55c0910c85b1aac2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpcore_d4eefb51d648a8e1fd9c6c39ec2924a908e029be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.android\build-cache\3859cc1ae995e7c3a5457e041cd74b1892a341ef\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_7db89280e130432cb912508c006bb71db921906b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.android\build-cache\31b8809b03e2567f11582975f70dd74f3b62109a\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_fd886a587e768f948f33c297cf5fd09175aaa932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2_eb890918e6a15ef727df70538113836b7646245a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\library-2.4.0_1caf30cb3d29838237bd7b5c4b2bc75741d13ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.android\build-cache\54e6f53deab2e9572ca6666983e9152a1a76a840\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\classes_8bdb273cb7a762f8f17a8a245555ef9046d2ac10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.android\build-cache\e9de2dedcf14aa0933a8c99058d980c60d240188\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\classes_a5790328025a309153443441a72c5b2e17769ad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1_92b2c526d19b8e64c95891bf07a2ebb0c7a1c200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_aa16b3cf885393ef74ba8407c65bcf20627dd05b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.android\build-cache\8d20aecb21bbff6b9c08f71a8ecccc04c44264d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\classes_0e7bc8e6f8501020f07168bd59a772ac3cd58630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina_d77574fb6f8d601fabb1922b54a5dd219193614a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1_35114bf67a7161cf7a0ed6d9c246845b2ed3cc4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1_56df61a5844952d51c6061bb2f27ba46155554a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.6\a845a88238be0b5be9d238652c1bc0605ef91f52\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_fc84a35b4e449bdeb8144150767d083de9beec2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\android-viewbadger.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\android-viewbadger_0fe3633e1d292f96b1af342cdee929b32288a5af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.android\build-cache\7b7cde082da30351c2a0336f44e68ae32015c81c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\classes_cf3be8826ef203253734090744c6cc3303ea2f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.android\build-cache\31b8809b03e2567f11582975f70dd74f3b62109a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\classes_a23303e39a7c3382695d2e199b3050be1825f47b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhongweichang\.android\build-cache\3859cc1ae995e7c3a5457e041cd74b1892a341ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\classes_7c3498eb7b350066be2a17fb22b2cc46aa6be799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_eaf932d52fe4964ffb5585e277e2581835e13bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\jsoup-1.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1_a5cb46914af4e10d81f1f68bb9d63f04ba190143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\umeng_social_sdk_43e992c844c27dc052410a0ebead64a52ef364d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3_042721ac6b83d621fbaaa3c942aef5013d47890d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\app\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2_e7211feea77d1d665c3e67e6988049d52adec07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\code\Android\v2ex-android\jazzylistview\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b465bc460e5cdba2a45a70e2e6d226eee44108fe">
+        <dex dex="G:\code\Android\v2ex-android\app\build\intermediates\pre-dexed\debug\classes_56da781078cc6b0f3f911f96be380d9c08d484da.jar" />
+    </item>
+
+</items>
